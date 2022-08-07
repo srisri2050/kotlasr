@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srisri2050
-- 👀 I’m interested in crypto
-- 💞️ I’m looking to collaborate on crypto projects
+- 👀 I’m like the open source concept
+- 💞️ I’m looking to collaborate on open source projects
 
 <!---
 srisri2050/srisri2050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
